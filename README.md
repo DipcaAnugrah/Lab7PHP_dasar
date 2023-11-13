@@ -7,7 +7,9 @@ Kelas   : TI.22.A.4
 ```
 
 ## **Daftar Isi**
-
+[Instruksi Praktikum](#instruksi-praktikum)
+[Langkah-langkah Praktikum](#langkah-langkah-praktikum)
+[Pertanyaan dan Tugas](#pertanyaan-dan-tugas)
 ## **Instruksi Praktikum**
 
 1. Persiapkan text editor misalnya VSCode.
